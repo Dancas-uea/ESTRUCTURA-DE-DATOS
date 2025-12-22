@@ -1,0 +1,15 @@
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\bin\Debug\net10.0\Semana-04.exe
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\bin\Debug\net10.0\Semana-04.deps.json
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\bin\Debug\net10.0\Semana-04.runtimeconfig.json
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\bin\Debug\net10.0\Semana-04.dll
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\bin\Debug\net10.0\Semana-04.pdb
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.AssemblyInfoInputs.cache
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.AssemblyInfo.cs
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.csproj.CoreCompileInputs.cache
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.sourcelink.json
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.dll
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\refint\Semana-04.dll
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.pdb
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\Semana-04.genruntimeconfig.cache
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-04\obj\Debug\net10.0\ref\Semana-04.dll
