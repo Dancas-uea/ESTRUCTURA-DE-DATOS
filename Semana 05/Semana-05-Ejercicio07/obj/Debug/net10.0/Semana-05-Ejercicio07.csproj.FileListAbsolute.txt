@@ -1,0 +1,15 @@
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\bin\Debug\net10.0\Semana-05-Ejercicio07.exe
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\bin\Debug\net10.0\Semana-05-Ejercicio07.deps.json
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\bin\Debug\net10.0\Semana-05-Ejercicio07.runtimeconfig.json
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\bin\Debug\net10.0\Semana-05-Ejercicio07.dll
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\bin\Debug\net10.0\Semana-05-Ejercicio07.pdb
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.AssemblyInfoInputs.cache
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.AssemblyInfo.cs
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.sourcelink.json
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.dll
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\refint\Semana-05-Ejercicio07.dll
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.pdb
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\Semana-05-Ejercicio07.genruntimeconfig.cache
+C:\Users\Danie\PycharmProjects\ESTRUCTURA DE DATOS\Semana-05-Ejercicio07\obj\Debug\net10.0\ref\Semana-05-Ejercicio07.dll
